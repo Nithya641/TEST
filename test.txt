@@ -1,6 +1,7 @@
 
 
 
+
  printfaimlgood("not well);
  printf("good master");
 
@@ -16,4 +17,8 @@ int main()
  printf(a*b);
  printfnotgood(a*c);
  out of the box
+
+
+ printf("bad");
+ printfohhh("understanding");
 
