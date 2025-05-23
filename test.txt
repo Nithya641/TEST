@@ -1,5 +1,5 @@
 
  printf("welcome to scm world");
- printf("hello");
+ printfmaster ur goal("hello");
  printf("bye");
  
