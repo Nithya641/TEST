@@ -1,5 +1,6 @@
 
 
+
  printfaimlgood("not well);
  printf("good master");
 
@@ -8,3 +9,11 @@
  printfmaster ur goal("hello");
  printfmagicworld("bye");
  
+
+#include<stdio.h>
+int main()
+ printf(a+b);
+ printf(a*b);
+ printfnotgood(a*c);
+ out of the box
+
