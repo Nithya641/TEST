@@ -1,4 +1,10 @@
 
+
  printfaimlgood("not well);
  printf("good master");
 
+
+ printf("welcome to scm world");
+ printfmaster ur goal("hello");
+ printfmagicworld("bye");
+ 
