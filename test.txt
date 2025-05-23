@@ -3,4 +3,4 @@ int main()
  printf(a+b);
  printf(a*b);
  printf(a*c);
- 
+ out of the box
