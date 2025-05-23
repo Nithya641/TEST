@@ -1,4 +1,4 @@
 
- printf("not well);
+ printfaimlgood("not well);
  printf("good master");
 
