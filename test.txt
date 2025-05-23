@@ -1,12 +1,4 @@
-#include<stdio.h>
-int main()
- printf(a+b);
- printf(a*b);
- printf(a*c);
- printf("welcome to scm world");
- printf("hello");
- printf("bye");
+
  printf("not well);
  printf("good master");
- printf("bad");
- printf("understanding");
+
